@@ -1,0 +1,71 @@
+
+body{
+    background-color:darkkhaki;
+}
+.box{
+    height:350px;
+    width:400px;
+    background-color:rgba(0,0,0,0.9);
+    border-radius:15px;
+    margin-top:170px;
+    white-space:nowrap;
+  
+}
+.cointainer{
+    display:flex;
+    justify-content:center;
+}
+select{
+   margin-top:30px;
+   margin-left:25px;
+   height:40px;
+   width:160px;
+   border:2px solid white;
+   border-radius:10px;
+   text-align:center;
+   background-color:orange;
+   color:black;
+   font-size:25px;
+   font-family: sans-serif;
+}
+input{
+    margin-top:20px;
+    margin-left:25px;
+    height:30px;
+    width:150px;
+    border:2px solid white;
+    border-radius:10px;
+    text-align:center;
+    color:white;
+    font-size:25px;
+    font-family: sans-serif;
+    color:black;
+}
+
+button{
+    display:flex;
+    justify-content: center;
+    margin-top:30px;
+    margin-left:110px;
+    height:40px;
+    width:160px;
+    border:2px solid white;
+    border-radius:10px;
+    text-align:center;
+    color:white;
+    font-size:25px;
+    font-family: sans-serif;
+    color:black;
+   
+}
+select.option{
+    border-radius:10px;
+    color:black;
+    background-color:orange;
+
+}
+h1{
+    color:white;
+    text-align:center;
+    font-family:sans-serif;
+}
